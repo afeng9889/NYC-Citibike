@@ -27,7 +27,7 @@ Our Tableau Story for the bike-share rental analysis : [NYC Citibike Story](http
 - Majority of the ridesharers are men
 
 
-![Gender Breakdown](images/ender_Breakdown.png)
+![Gender Breakdown](images/Gender_Breakdown.png)
 
 - The number of men who uses Citibike nearly triples that of women riders.
 
