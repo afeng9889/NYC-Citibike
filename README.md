@@ -39,3 +39,8 @@ Our Tableau Story for the bike-share rental analysis : [NYC Citibike Story](http
 
 
 ## Summary:
+
+We can conclude that majority of the rides were ridden on weekday most likely for commute to work. Therefore, it would be best advised to promote the program in the inner part of the city closer to offices.
+
+For addiitonal data, we can find the average ages group using the citibike rental program. We can determine if they are university age or working age adults who use it the most.
+Lastly, we can also confirm with subscriber addresses. We can determine if the citibike program is mainly used by locals or toursits.
